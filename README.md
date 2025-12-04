@@ -16,7 +16,7 @@ El proyecto se enfocó en resolver la problemática de la **imprecisión métric
 | :--- | :--- | :--- | :--- |
 | **Navegación Precisa** | Control PI de lazo cerrado y Calibración Métrica ArUco. | Lograr la capacidad de posicionamiento estable y métrico mediante retroalimentación de la cámara. | P1, P2 |
 | **Seguridad Operacional** | Validación de $T_{reac}$ y Máquina de Estados Finita (FSM). | Certificar que el tiempo de reacción ante un obstáculo sea **$T_{reac} < 200$ ms**. | P3, P4 |
-| **Integración Final** | Control Jerárquico (LiDAR > ArUco). | Fusión estable de ambos subsistemas, validando la anulación de la navegación por la señal de seguridad. | P5, P6 |
+| **Integración Final** | Control Jerárquico (LiDAR > ArUco). | Fusión estable de ambos subsistemas, validando la anulación de la navegación por la señal de seguridad. | P5 |
 
 ---
 
