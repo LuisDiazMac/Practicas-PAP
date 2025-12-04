@@ -2,7 +2,7 @@
 
 ## 📝 Resumen del Proyecto PAP (Otoño 2025)
 
-Este repositorio contiene la totalidad del código, la documentación técnica y los logs de validación del Proyecto de Aplicación Profesional (PAP) **RobotMesha**. El proyecto se centra en el diseño e implementación de un vehículo móvil omnidireccional dotado de un sistema de **Percepción Dual** que fusiona la **Visión Artificial (OpenCV/ArUco)** para la navegación métrica precisa, con un **sensor LiDAR (RPLIDAR C1)** para la detección de obstáculos y la seguridad operacional.
+Este repositorio contiene la totalidad del código, la documentación técnica y los logs de validación del Proyecto de Aplicación Profesional (PAP) **RobotMeshA**. El proyecto se centra en el diseño e implementación de un vehículo móvil omnidireccional dotado de un sistema de **Percepción Dual** que fusiona la **Visión Artificial (OpenCV/ArUco)** para la navegación métrica precisa, con un **sensor LiDAR (RPLIDAR C1)** para la detección de obstáculos y la seguridad operacional.
 
 El principal hito técnico fue la implementación de un **Control Jerárquico** donde la seguridad (detección LiDAR) anula la navegación (Control PI), logrando un sistema autónomo robusto y certificado para operar en entornos dinámicos compartidos.
 
