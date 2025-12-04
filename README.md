@@ -1,4 +1,4 @@
-# 🤖 Practicas-PAP: RobotMesha - Sistema Autónomo con Percepción Dual
+# 🤖 Practicas-PAP: RobotMeshA - Sistema Autónomo con Percepción Dual
 
 ## 📝 Resumen del Proyecto PAP (Otoño 2025)
 
