@@ -38,7 +38,7 @@ El proyecto se enfocó en resolver la problemática de la **imprecisión métric
 
 | Directorio | Contenido |
 | :--- | :--- |
-| `Practicas PDFS/` | Documentación detallada (PDFs) de las 6 prácticas realizadas. |
+| `Practicas PDFS/` | Documentación detallada (PDFs) de las 5 prácticas realizadas. |
 | `P1_Calibracion_Vision/` | Scripts de Calibración Intrínseca y Extrínseca. Logs de Re-proyección. |
 | `P2_Control_PI_Firebase/` | Código del Controlador PI, comunicación Firebase y scripts de telemetría. |
 | `P3_Validacion_LiDAR/` | Scripts para el procesamiento de la nube de puntos y logs de validación de latencia ($<200$ ms). |
